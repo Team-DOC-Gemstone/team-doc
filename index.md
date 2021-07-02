@@ -15,4 +15,5 @@ How can we create a general purpose machine learning model to screen for the mos
 
 Web Liasion: [Arjun Vedantham](mailto:avedanth@umd.edu)
 Team Mentor: [Dr. Soheil Feizi](mailto:sfeizi@cs.umd.edu)
+Team Librarian: [Milan Budhathoki](mailto:mb17@umd.edu)
 Team Members: Yael Beshaw, Marc Burlina, George Cancro, Darren Chang, Njikem Fomengia, Chris Jose, Vanshika Mehta, Arjun Vedantham, Ritvik Yaragudipati
