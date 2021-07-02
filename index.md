@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Team DOC - Class of 2024
 
-You can use the [editor on GitHub](https://github.com/Team-DOC-Gemstone/team-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Developing software to detect and predict the spread of cancer, using novel techniques in computer vision and machine learning. We hope to resolve long-standing inequities in global healthcare systems by reducing the barriers to access to get routine, comprehensive medical screenings and diagnostics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research question
 
-### Markdown
+How can we create a general purpose machine learning model to screen for the most damaging forms of cancer? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Image](https://gemstone.umd.edu/sites/default/files/inline-images/g_honors_college%20SMALL_2.png)](https://www.gemstome.umd.edu)
+[![Image](https://gemstone.umd.edu/sites/default/files/inline-images/honors-college.png)](https://www.honors.umd.edu)
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Team-DOC-Gemstone/team-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Web Liasion: [Arjun Vedantham](mailto:avedanth@umd.edu)
