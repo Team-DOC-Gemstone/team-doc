@@ -17,7 +17,7 @@ However, due to advances in machine learning technology as well as increased int
 This research area has been explored before. For example, the data science site Kaggle had a challenge for researchers to build a disease screening system for diabetic retinopathy, a blindness causing side effect of diabetes, using computer vision and machine learning. However, this project would go further since it would also involve the prediction of how a disease will progress, will have the advantage of running on low powered hardware, and will explore equitable ways of deploying this technology in existing healthcare systems. 
 
 
-[![Image](https://gemstone.umd.edu/sites/default/files/inline-images/g_honors_college%20SMALL_2.png)](https://www.gemstome.umd.edu)
+[![Image](https://gemstone.umd.edu/sites/default/files/inline-images/g_honors_college%20SMALL_2.png)](https://www.gemstone.umd.edu)
 [![Image](https://gemstone.umd.edu/sites/default/files/inline-images/honors-college.png)](https://www.honors.umd.edu)
 
 ### Contact
@@ -28,4 +28,4 @@ Team Mentor: [Dr. Soheil Feizi](mailto:sfeizi@cs.umd.edu)
 
 Team Librarian: [Milan Budhathoki](mailto:mb17@umd.edu)
 
-Team Members: Yael Beshaw, Marc Burlina, George Cancro, Darren Chang, Njikem Fomengia, Chris Jose, Vanshika Mehta, Arjun Vedantham, Ritvik Yaragudipati
+Team Members: Yael Beshaw, George Cancro, Darren Chang, Njikem Fomengia, Chris Jose, Vanshika Mehta, Arjun Vedantham, Ritvik Yaragudipati
