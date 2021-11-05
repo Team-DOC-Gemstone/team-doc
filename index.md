@@ -28,4 +28,4 @@ Team Mentor: [Dr. Soheil Feizi](mailto:sfeizi@cs.umd.edu)
 
 Team Librarian: [Milan Budhathoki](mailto:mb17@umd.edu)
 
-Team Members: Yael Beshaw, George Cancro, Darren Chang, Njikem Fomengia, Chris Jose, Vanshika Mehta, Arjun Vedantham, Ritvik Yaragudipati
+Team Members: Yael Beshaw, George Cancro, Darren Chang, Jayda Fomengia, Chris Jose, Vanshika Mehta, Arjun Vedantham, Ritvik Yaragudipati
