@@ -1,6 +1,4 @@
-## Team DOC - Class of 2024
-
-[![Image](https://raw.githubusercontent.com/Team-DOC-Gemstone/team-doc/gh-pages/logo.png)](https://teamdoc.tech)
+<img src="http://teamdoc.tech/logo.png" style="width: 50%; height: 50%; margin-left: 25%;"></img>
 
 ### Mission Statement
 
