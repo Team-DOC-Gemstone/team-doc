@@ -1,5 +1,7 @@
 ## Team DOC - Class of 2024
 
+[![Image](https://raw.githubusercontent.com/Team-DOC-Gemstone/team-doc/gh-pages/logo.png)](https://teamdoc.tech)
+
 ### Mission Statement
 
 Developing software to detect and predict the spread of cancer, using novel techniques in computer vision and machine learning. We hope to resolve long-standing inequities in global healthcare systems by reducing the barriers to access to get routine, comprehensive medical screenings and diagnostics. 
