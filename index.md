@@ -1,4 +1,4 @@
-<img src="http://teamdoc.tech/logo.png" style="width: 50%; height: 50%; margin-left: 25%;"></img>
+<img src="http://teamdoc.tech/logo.png" style="width: 50%; height: 50%; margin-left: 25%;">
 
 ### Mission Statement
 
