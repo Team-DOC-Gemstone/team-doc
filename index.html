@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Team DOC">
+    <title>Team DOC</title>
+
+    <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="navbar-top.css" rel="stylesheet">
+  </head>
+  <body>
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">Team DOC</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="team.html">Team</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="timeline.html">Timeline</a>
+                </li>
+            </ul>
+            </div>
+        </div>
+        </nav>
+
+        <main class="container">
+        <div class="bg-light p-5 rounded">
+            <div style="text-align:center"><img src = "assets/images/logo.png" width = "50%" height = "50%" /></div>
+            <h3>Mission statement</h3>
+            <p class="lead">Developing software to detect and predict the spread of cancer, using novel techniques in computer vision and machine learning. We hope to resolve long-standing inequities in global healthcare systems by reducing the barriers to access to get routine, comprehensive medical screenings and diagnostics.</p>
+            <h3>Research question</h3>
+            <p class="lead">How can we create a general purpose machine learning model to screen for the most damaging forms of cancer?</p>
+            <h3>Scope and summary</h3>
+            <p class="lead">Many countries and communities around the world do not have access to medical specialists, and instead receive most of their medical care from primary care physicians and small clinics. Due to the limited resources, healthcare providers in these poorer communities focus on trying to treat patients since they do not have the resources to do things like yearly screenings. Even in the cases where physicians in these communities do screenings, it can be difficult to predict the progression of a disease and how aggressively to respond without the input of a specialist.</p>
+            <p class="lead">However, due to advances in machine learning technology as well as increased inter connectivity in poorer communities (thanks to projects like SpaceX’s Starlink satellites) , we take advantage of these new developments and help automate part of the disease screening and prediction process for physicians in poorer areas.</p>
+            <p class="lead">This research area has been explored before. For example, the data science site Kaggle had a challenge for researchers to build a disease screening system for diabetic retinopathy, a blindness causing side effect of diabetes, using computer vision and machine learning. However, this project would go further since it would also involve the prediction of how a disease will progress, will have the advantage of running on low powered hardware, and will explore equitable ways of deploying this technology in existing healthcare systems.</p>
+            <a class="btn btn-lg btn-primary" href="team.html" role="button">Meet the team &raquo;</a>
+        </div>
+        <div class="p-5 rounded" style="text-align:center">
+            <a href="https://www.gemstone.umd.edu"><img src="https://gemstone.umd.edu/sites/default/files/inline-images/g_honors_college%20SMALL_2.png"></a>
+            <a href="https://www.honors.umd.edu"><img src="https://gemstone.umd.edu/sites/default/files/inline-images/honors-college.png"></a>
+        </div>
+        </main>
+        
+
+        <div class="container">
+            <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+                <p class="col-md-4 mb-0 text-muted">Web liaison: <a style="text-decoration:none" href = "mailto:avedanth@umd.edu">Arjun Vedantham</a></p>
+          
+              <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+                <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+              </a>
+          
+              <ul class="nav col-md-4 justify-content-end">
+                <li class="nav-item"><a href="index.html" class="nav-link px-2 text-muted">Home</a></li>
+                <li class="nav-item"><a href="team.html" class="nav-link px-2 text-muted">Team</a></li>
+                <li class="nav-item"><a href="timeline.html" class="nav-link px-2 text-muted">Timeline</a></li>
+              </ul>
+            </footer>
+          </div>
+        <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
